@@ -2,6 +2,7 @@
 
 def main(msg):
     #No longer need comments here
+#Print message
     print(msg)
 
 def secondary():

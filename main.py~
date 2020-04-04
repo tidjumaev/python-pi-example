@@ -3,7 +3,9 @@
 def main(msg):
 <<<<<<< HEAD
     // Adding a different comment.
+=======
 	//Print a message
+>>>>>>> f56de90db938e02c0045f31abab0ab532a42b2e3
     print(msg)
 
 main ("Hello People")

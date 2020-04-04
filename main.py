@@ -1,9 +1,7 @@
 #!/usr/bin/python3
 
 def main(msg):
-    #Another comment
-    #No longer need comments here and there
-    #No longer need comments here and here again
+    #This is the final version of this file
 #Print message
     print(msg)
 
